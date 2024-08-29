@@ -1,0 +1,20 @@
+{
+  "name": "cdk-monitoring-bucket-deployment-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "synth": "cdk synth"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.5.1",
+    "aws-cdk": "^2.154.1",
+    "aws-cdk-lib": "^2.154.1",
+    "cdk-monitoring-constructs": "^8.1.1",
+    "constructs": "^10.3.0",
+    "typescript": "^5.5.4"
+  }
+}
